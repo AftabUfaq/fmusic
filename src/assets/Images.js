@@ -1,0 +1,15 @@
+export const AppImages = {
+    headerlogo: require('./headerlogo.png'),
+    location:require("./location.png"),
+    phone:require("./phone.png"),
+    facebook:require("./social/facebook.png"),
+    insta:require("./social/insta.png"),
+    linkdin:require("./social/linkdin.png"),
+    meetup:require("./social/meetup.png"),
+    pinterest:require("./social/pinterest.png"),
+    snapchat:require("./social/snapchat.png"),
+    tiktok:require("./social/tiktok.png"),
+    twitch:require("./social/twitch.png"),
+    twitter:require("./social/twitter.png"),
+    youtube:require("./social/youtube.png"),
+}
